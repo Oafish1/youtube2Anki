@@ -38,5 +38,11 @@
       "js": ["youtube2Anki.js"],
       "run_at": "document_start"
     }
-  ]
+  ],
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "anki@youtube"
+    }
+  }
 }
